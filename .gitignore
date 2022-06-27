@@ -32,5 +32,6 @@
 *.app
 build-Server-Desktop_Qt_6_2_4_MinGW_64_bit-Debug
 build-Client-Desktop_Qt_6_2_4_MinGW_64_bit-Debug
+build-VDP_Simulator-Desktop_Qt_6_2_4_MinGW_64_bit-Debug
 Server.pro.user
 Client.pro.user
